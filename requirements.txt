@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyrogram
+tgcrypto
+yt-dlp
+requests
+python-dotenv
+aiohttp
